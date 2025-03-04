@@ -19,6 +19,8 @@ This repository contains different tasks solved using classification, clustering
 - [🐧 Penguins Clustering (K-Means, DBSCAN, Agglomerative)](https://github.com/sovunia-hub/kaggle/blob/main/penguins-clustering-k-means-dbscan-agglom.ipynb)
 - [🚢 Titanic Classification with Random Forest](https://github.com/sovunia-hub/kaggle/blob/main/titanic-random-forest-classification.ipynb)
 
+## 📌 Project Descriptions
+
 ### 🚗 Car Classification with LogReg, KNN, SVM
 Classification of cars based on various features using Logistic Regression, K-Nearest Neighbors, and Support Vector Machine.
 
