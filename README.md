@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) 
 
-Welcome to my repository featuring various machine learning projects! 🚀
+Welcome to my repository featuring various machine learning and deep learning projects! 🚀
 
 This repository contains different tasks solved using classification, clustering, and ensemble methods. Each project is implemented in Jupyter Notebook with a detailed explanation of the applied algorithms.
 
